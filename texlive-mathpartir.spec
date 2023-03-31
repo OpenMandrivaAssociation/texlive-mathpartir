@@ -1,6 +1,6 @@
 Name:		texlive-mathpartir
 Version:	39864
-Release:	1
+Release:	2
 Summary:	Typesetting sequences of math formulas, e.g. type inference rules
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathpartir
